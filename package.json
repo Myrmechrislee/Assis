@@ -1,0 +1,19 @@
+{
+  "name": "assis-js",
+  "version": "1.0.0",
+  "description": "Biggest Sync Library on Nodejs",
+  "main": "assis.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Myrmechrislee/Assis.git"
+  },
+  "author": "toffee123 <christophelee2004@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Myrmechrislee/Assis/issues"
+  },
+  "homepage": "https://github.com/Myrmechrislee/Assis#readme"
+}
