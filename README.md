@@ -9,9 +9,9 @@ Biggest Sync Library on Nodejs
 
 ## Examples
 
-###Setup Module
+### Setup Module
 1. `$ npm i Assis@latest --save`
 3. on code: `var assis = require('assis');`
 
-###Encrypt
+### Encrypt
 1. `assis.string.cryptography.encrypt('aes256', 'abc', 'foobar');`
